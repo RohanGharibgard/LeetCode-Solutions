@@ -4,6 +4,6 @@ class Solution(object):
         :type digits: List[int]
         :rtype: List[int]
         """
-    i = int("".join(digits))
-    i += 1
-    
+        i = int("".join(digits))
+        i += 1
+        
